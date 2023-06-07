@@ -1,0 +1,27 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Command to run server.js file:",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iNeuron-Pvt-Ltd/neurolab-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iNeuron-Pvt-Ltd/neurolab-nodejs/issues"
+  },
+  "homepage": "https://github.com/iNeuron-Pvt-Ltd/neurolab-nodejs#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^4.1.0",
+    "simple-git": "^3.19.0"
+  }
+}
